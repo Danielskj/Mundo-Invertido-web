@@ -3,7 +3,7 @@
 </p>
 
 -------
-Um pequeno projeto de Ladding Page com tema da série Stranger Things 
+Um pequeno projeto de Ladding Page, utilizando HTML e CSS, com tema da série Stranger Things.
 
 Para acessar e visualizar o projeto: https://danielskj.github.io/Mundo-Invertido-web/
 
