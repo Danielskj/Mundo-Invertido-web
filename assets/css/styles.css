@@ -426,5 +426,5 @@ footer a {
   margin-bottom: 24px;
   color: brown;
   font-size: 24px;
-  text-decoration:rgba(19, 1, 1, 0.75);
+  text-decoration: none; 
 }
