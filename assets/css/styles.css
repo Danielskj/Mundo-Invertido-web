@@ -423,8 +423,8 @@ footer::after{
 
 footer a {
   max-width: 800px;
-  margin-bottom: 24px;
+  margin-bottom: 25px;
   color: brown;
-  font-size: 24px;
+  font-size: 25px;
   text-decoration: none; 
 }
